@@ -4,7 +4,7 @@
 
 def pascal_triangle(n):
     """function that creates a pascal trinagle  of n sisize"""
-    if n<= 0:
+    if n <= 0:
         return []
     
     
